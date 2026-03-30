@@ -1,0 +1,56 @@
+﻿  GeometricRecognizer.cpp
+  NetworkingUtils.cpp
+  UdpSocket.cpp
+  OscReceivedElements.cpp
+  TuioClient.cpp
+  TuioTime.cpp
+  Drawable_Object.cpp
+  main.cpp
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\TUIO_CPP\oscpack\ip\win32\NetworkingUtils.cpp(80,25): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\TUIO_CPP\TUIO\TuioClient.cpp(83,27): warning C4101: "e": Unreferenzierte lokale Variable
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\Drawable_Object.cpp(39,36): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\Drawable_Object.cpp(40,36): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\Drawable_Object.cpp(41,39): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\Drawable_Object.cpp(42,39): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\Drawable_Object.cpp(52,17): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\Drawable_Object.cpp(63,31): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\Drawable_Object.cpp(64,31): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\Drawable_Object.cpp(65,34): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\Drawable_Object.cpp(66,34): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\Drawable_Object.cpp(87,22): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\Drawable_Object.cpp(88,22): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\Drawable_Object.cpp(92,17): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\Drawable_Object.cpp(93,16): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\Drawable_Object.cpp(95,17): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\Drawable_Object.cpp(96,17): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(36,96): warning C4305: "Argument": Verkürzung von "double" in "float"
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(79,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(80,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(82,66): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(82,55): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(86,1): warning C4305: "Argument": Verkürzung von "double" in "float"
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(86,65): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(86,54): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(146,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(147,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(157,22): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(172,46): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(173,52): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(177,46): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(178,52): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(183,43): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(184,49): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(189,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(222,15): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(223,15): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(225,15): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(226,15): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(242,14): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(243,14): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(245,14): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(246,14): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(254,43): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(281,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(321,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Tuio Client Example\main.cpp(322,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  Tuio Client Example.vcxproj -> E:\Multi_Touch_User_Interface\mt_tuio_client_framework_2015\mt_tuio_client_framework_2015\Debug\Tuio Client Example.exe
